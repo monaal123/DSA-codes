@@ -1,5 +1,5 @@
 const movies=["joker","gone girl","dark knight","aquaman","munabhai"]
-movies.push("demons");
+movies.push("demons2323");
 movies.push("last of us");
 console.log(movies);
 const a=movies.slice(0,1);
